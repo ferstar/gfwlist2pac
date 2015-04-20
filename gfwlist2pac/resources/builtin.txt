@@ -6,3 +6,4 @@
 ||googlesyndication.com
 ||github.com
 ||wikipedia.org
+||google.com.tw
